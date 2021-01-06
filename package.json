@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/schmidgallm/file-uploader#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cloudinary": "^1.22.0",
     "concurrently": "^5.2.0",
     "cors": "^2.8.5",
